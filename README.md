@@ -4,7 +4,7 @@ Team Edge Lab 13 Example
 A basic introduction into DOM manipulation with JS using buttons.
  
 Demo how to:
-1. Add the <button> tag and how to add text.
+1. Add the `<button>` tag and how to add text.
 2. Add a `<script>` tag within the html document
 3. Move the script to the related script.js file and explain when and why this is useful.
 4. Use `querySelector()` method to change to random body background color, or other element.
